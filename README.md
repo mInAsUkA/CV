@@ -1,2 +1,2 @@
 # CV
-This repository contains my updated curriculum vitae 
+This repository contains my updated resume
